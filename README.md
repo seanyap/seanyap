@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 -->
 
 # hi there ​👋​😄​💻​
-  * my name is Sean and I'm always on the look out for creative ways to apply my technical skills in projects 
-  * i am currently building a covid-19 tracker app using javascript and react
+  * My name is Sean and I'm always on the look out for creative ways to apply my technical skills in projects 
+  * I'm currently building a covid-19 tracker app using javascript and react
 
-### languages familiar and worked with
+### Languages familiar and worked with
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 
-#### my GitHub stats
+#### My GitHub stats
 <a href="https://github.com/seanyap">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seanyap" alt="GitHub Stats" title="GitHub Streak" />
 </a> 
