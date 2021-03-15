@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### I'm Sean Yap and I ...
   * :mortar_board: Study Computer Science at Brooklyn College
-  * :yum: Learn about developing on the web with cool technologies
+  * :yum: Learn how to apply cool web technologies on my projects
   * 🚀 Currently building a covid-19 tracker app using Javascript and React
   * 🔎 Always on the look out for creative ways to apply my technical skills in projects 
 
