@@ -1,20 +1,20 @@
 <!--
 **seanyap/seanyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-# hi there ​👋​😄​💻​
-  * My name is Sean and I'm always on the look out for creative ways to apply my technical skills in projects 
-  * I'm currently building a covid-19 tracker app using Javascript and React
+## Hello there! 👋😄
+<a href="https://www.linkedin.com/in/seanwyap/"><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://github.com/seanyap/"><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+</a>
+
+<br>
+
+### I'm Sean Yap and I ...
+  * :mortar_board: Study Computer Science at Brooklyn College
+  * :yum: Learn about developing on the web with cool technologies
+  * 🚀 Currently building a covid-19 tracker app using Javascript and React
+  * 🔎 Always on the look out for creative ways to apply my technical skills in projects 
 
 ### Languages familiar and worked with
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
