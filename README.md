@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 
 ### I'm Sean Yap and I ...
   * :mortar_board: Study Computer Science at Brooklyn College
-  * :yum: Learn how to apply cool web technologies on my projects
-  * 🚀 Currently building a covid-19 tracker app using Javascript and React
-  * 🔎 Always on the look out for creative ways to apply my technical skills in projects 
+  * :yum: Learn about Web Technologies and Problem Solving skills
+  * 🚀 Am currently building a covid-19 tracker app using Javascript and React
+  * 💬 Speak English, Mandarin, and Cantonese
+
 
 ### Languages familiar and worked with
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
