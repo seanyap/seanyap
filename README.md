@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 <br>
 
 ### I'm Sean Yap and I ...
-  * :mortar_board: Study Computer Science at Brooklyn College
-  * :yum: Learn about Web Technologies and Problem Solving skills
-  * 🚀 Am currently building a covid-19 tracker app using Javascript and React
-  * 💬 Speak English, Mandarin, and Cantonese
+  * :mortar_board:  Study Computer Science at Brooklyn College
+  * :yum:  Enjoy learning about web technologies and extracting insights from data 
+  * 🚀  Eager to grow and improve my developing and problem solving skills
+  * 📚  Am reading *"Think Like a Programmer"* by V. Anton Spraul
 
 
 ### Languages familiar and worked with
